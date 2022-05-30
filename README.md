@@ -7,4 +7,4 @@
 | [shinyPoker](https://github.com/mattmajesticshinyPoker) | ⏬ Create a Poker Sim via an R Shiny App | beta |
 | [web3R](https://github.com/mattmajestic/web3R) | ✅ Reticulate Python Web3 Code to R | production Python | 👋
 
-📫 How to reach me: matt@apprazv.com
+📫 Reach me at <mattmajestic@protonmail.com?
