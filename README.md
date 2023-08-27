@@ -18,6 +18,7 @@
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-majestic/)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@majesticcoding/videos)
+[![Discord](https://img.shields.io/badge/Discord-Official-blue?style=flat&logo=discord)](https://discord.com/users/.crypto_magic)
 [![Email](https://img.shields.io/badge/📧-Email-blue)](mailto:mattmajestic@strictlyresearch.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## Stats
