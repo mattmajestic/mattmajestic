@@ -3,15 +3,15 @@
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
+| 💰 Crypto Wallet Holding with Kraken REST API | Written in Python, uses Kraken REST API | Python, Kraken REST API, Supabase | [Visit](https://kraken-portfolio.streamlit.app/) |
+| 🌐 Lightweight Web3 Business Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3bms.streamlit.app/) |
 | 💻 Windows 98 Themed Portfolio | Deployed on Netlify, written in vanilla JavaScript | Netlify, JavaScript | [Visit](https://majestic-windows-98.netlify.app/) |
-| 🚀 Software Development Request App | Deployed on Vercel, built with ReactJS & ExpressJS | Vercel, ReactJS, ExpressJS | [View](https://software-dev-request.vercel.app/) |
+| 🚀 Software Development Request App | Deployed on Vercel, built with ReactJS & ExpressJS | Vercel, ReactJS, Supabase | [View](https://software-dev-request.vercel.app/) |
 | 💳 Booking & Payments App | Written in Streamlit, integrated with Stripe Payments API | Streamlit, Stripe Payments API | [Visit](https://stripe-demo-youtube.streamlit.app/) |
+| 📈 CoinGecko Trending Coin Tracker | Deployed on Vercel, built with React | CoinGecko API, React | [Visit](https://coingecko-reactjs.vercel.app/) |
 | 🐳 Docker Compose Deployment of DIY Home Assistant | Smart automation using Docker Compose | Docker Compose | [Visit](https://github.com/mattmajestic/homeassistant-majestic#readme) |
 | ☁️ OpenAI Streamlit App | Deployed via Docker on Google Cloud Platform | Docker, Google Cloud Platform | [Visit](https://openai-streamlit.app/) |
-| 📈 CoinGecko Trending Coin Tracker | Deployed on Vercel, built with React | Vercel, React | [Visit](https://coingecko-reactjs.vercel.app/) |
 | ⚽ Soccer Performance in Streamlit | Deployed to Google Cloud Platform | Streamlit, Google Cloud Platform | [Visit](https://joga-bonito.tech/) |
-| 💰 Crypto Wallet Holding with Kraken REST API | Written in Python, uses Kraken REST API | Python, Kraken REST API | [Visit](https://kraken-portfolio.streamlit.app/) |
-| 🌐 Lightweight Web3 Business Management Solution | Written in Python with Web3 integration | Python, Web3 | [Visit](https://web3bms.streamlit.app/) |
 
 <br /> 
 
