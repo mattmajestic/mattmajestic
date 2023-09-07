@@ -6,6 +6,7 @@
 | 💰 Crypto Wallet Holding with Kraken REST API | Written in Python, uses Kraken REST API | Python, Kraken REST API, Supabase | [Visit](https://kraken-portfolio.streamlit.app/) |
 | 🌐 Lightweight Web3 Business Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3bms.streamlit.app/) |
 | 💻 Windows 98 Themed Portfolio | Deployed on Netlify, written in vanilla JavaScript | Netlify, JavaScript | [Visit](https://majestic-windows-98.netlify.app/) |
+| 🐍 Streamlit with Supabase Backend | Supabase Backend with PyPI via [Github Action](https://github.com/mattmajestic/streamlit-supabase/blob/main/.github/workflows/publish-to-pypi.yml)  | Supabase, [PyPI](https://pypi.org/project/streamlit-supabase/) | [Visit](https://supabase-demo.streamlit.app/) |
 | 🚀 Software Development Request App | Deployed on Vercel, built with ReactJS & ExpressJS | Vercel, ReactJS, Supabase | [View](https://software-dev-request.vercel.app/) |
 | 💳 Booking & Payments App | Written in Streamlit, integrated with Stripe Payments API | Streamlit, Stripe Payments API | [Visit](https://stripe-demo-youtube.streamlit.app/) |
 | 📈 CoinGecko Trending Coin Tracker | Deployed on Vercel, built with React | CoinGecko API, React | [Visit](https://coingecko-reactjs.vercel.app/) |
