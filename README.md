@@ -11,8 +11,8 @@
 | 💳 Booking & Payments App | Streamlit integrated with Stripe API | Streamlit, Stripe Payments API | [Visit](https://stripe-demo-youtube.streamlit.app/) |
 | 📈 CoinGecko Trending Coin Tracker | Deployed on Vercel, built with React | CoinGecko API, React | [Visit](https://coingecko-reactjs.vercel.app/) |
 | 🐳 DIY Home Assistant | Smart automation using Docker Compose | Docker Compose | [Visit](https://github.com/mattmajestic/homeassistant-majestic#readme) |
-| ☁️ OpenAI Streamlit App | Deployed via Docker on Google Cloud Platform | Docker, Google Cloud Platform | [Visit](https://openai-streamlit.app/) |
-| ⚽ Soccer Performance in Streamlit | Deployed to Google Cloud Platform | Streamlit, Google Cloud Platform | [Visit](https://joga-bonito.tech/) |
+| ☁️ OpenAI Streamlit App | Deployed via Docker on Google Cloud | Docker, Google Cloud | [Visit](https://openai-streamlit.app/) |
+| ⚽ Soccer Performance in Streamlit | Deployed to Google Cloud | Streamlit, Google Cloud | [Visit](https://joga-bonito.tech/) |
 
 <br /> 
 
