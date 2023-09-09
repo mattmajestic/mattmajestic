@@ -2,15 +2,15 @@
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| 💰 Crypto Wallet Holding with Kraken REST API | Written in Python, uses Kraken REST API | Python, Kraken REST API, Supabase | [Visit](https://kraken-portfolio.streamlit.app/) |
+| 💰 Crypto Wallet with Kraken API | Written in Python, uses Kraken REST API | Python, Kraken API, Supabase | [Visit](https://kraken-portfolio.streamlit.app/) |
 | 👾 Web3 Business Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3bms.streamlit.app/) |
 | 💾 mattmajestic.dev FastAPI Portfolio | FastAPI portfolio with Jinja | FastAPI, HTML, JS | [Visit](https://mattmajestic.dev/) |
-| 💻 Windows 98 Themed Portfolio | Deployed on Netlify, written in vanilla JavaScript | Netlify, JavaScript | [Visit](https://majestic-windows-98.netlify.app/) |
+| 💻 Windows 98 Themed Portfolio | Deployed on Netlify, written in vanilla JS | Netlify, JavaScript | [Visit](https://majestic-windows-98.netlify.app/) |
 | 🐍 Streamlit with Supabase Backend | Supabase Backend with PyPI via [Github Action](https://github.com/mattmajestic/streamlit-supabase/blob/main/.github/workflows/publish-to-pypi.yml)  | Supabase, [PyPI](https://pypi.org/project/streamlit-supabase/) | [Visit](https://supabase-demo.streamlit.app/) |
-| 🚀 Software Development Request App | Deployed on Vercel, built with ReactJS & ExpressJS | Vercel, ReactJS, Supabase | [View](https://software-dev-request.vercel.app/) |
-| 💳 Booking & Payments App | Written in Streamlit, integrated with Stripe Payments API | Streamlit, Stripe Payments API | [Visit](https://stripe-demo-youtube.streamlit.app/) |
+| 🚀 Software Development Request | Deployed on Vercel, built with ReactJS | Vercel, ReactJS, Supabase | [View](https://software-dev-request.vercel.app/) |
+| 💳 Booking & Payments App | Streamlit integrated with Stripe API | Streamlit, Stripe Payments API | [Visit](https://stripe-demo-youtube.streamlit.app/) |
 | 📈 CoinGecko Trending Coin Tracker | Deployed on Vercel, built with React | CoinGecko API, React | [Visit](https://coingecko-reactjs.vercel.app/) |
-| 🐳 Docker Compose Deployment of DIY Home Assistant | Smart automation using Docker Compose | Docker Compose | [Visit](https://github.com/mattmajestic/homeassistant-majestic#readme) |
+| 🐳 DIY Home Assistant | Smart automation using Docker Compose | Docker Compose | [Visit](https://github.com/mattmajestic/homeassistant-majestic#readme) |
 | ☁️ OpenAI Streamlit App | Deployed via Docker on Google Cloud Platform | Docker, Google Cloud Platform | [Visit](https://openai-streamlit.app/) |
 | ⚽ Soccer Performance in Streamlit | Deployed to Google Cloud Platform | Streamlit, Google Cloud Platform | [Visit](https://joga-bonito.tech/) |
 
