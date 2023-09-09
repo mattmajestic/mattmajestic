@@ -1,10 +1,9 @@
-# Welome to my Majestic Code
-## Projects
+## My Projects
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
 | 💰 Crypto Wallet Holding with Kraken REST API | Written in Python, uses Kraken REST API | Python, Kraken REST API, Supabase | [Visit](https://kraken-portfolio.streamlit.app/) |
-| 🌐 Lightweight Web3 Business Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3bms.streamlit.app/) |
+| 👾 Web3 Business Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3bms.streamlit.app/) |
 | 💾 mattmajestic.dev FastAPI Portfolio | FastAPI portfolio with Jinja | FastAPI, HTML, JS | [Visit](https://mattmajestic.dev/) |
 | 💻 Windows 98 Themed Portfolio | Deployed on Netlify, written in vanilla JavaScript | Netlify, JavaScript | [Visit](https://majestic-windows-98.netlify.app/) |
 | 🐍 Streamlit with Supabase Backend | Supabase Backend with PyPI via [Github Action](https://github.com/mattmajestic/streamlit-supabase/blob/main/.github/workflows/publish-to-pypi.yml)  | Supabase, [PyPI](https://pypi.org/project/streamlit-supabase/) | [Visit](https://supabase-demo.streamlit.app/) |
