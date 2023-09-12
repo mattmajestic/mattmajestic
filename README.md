@@ -1,8 +1,6 @@
-## My Projects
-
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| 👾 Web3 Business Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3bms.streamlit.app/) |
+| 👾 Web3 Code Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3cms.streamlit.app/) |
 | 💰 Crypto Wallet with Kraken API | Written in Python, uses Kraken REST API | Python, Kraken API, Supabase | [Visit](https://kraken-portfolio.streamlit.app/) |
 | 💾 mattmajestic.dev FastAPI Portfolio | FastAPI portfolio with Jinja | FastAPI, HTML, JS | [Visit](https://mattmajestic.dev/) |
 | 💻 Windows 98 Themed Portfolio | Deployed on Netlify, written in vanilla JS | Netlify, JavaScript | [Visit](https://majestic-windows-98.netlify.app/) |
