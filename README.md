@@ -15,12 +15,17 @@
 <br /> 
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-majestic/)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@majesticcoding/videos)
-[![Docker Hub](https://img.shields.io/badge/Docker-Hub-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/u/mattmajestic)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Matt%20Majestic-0052CC?style=for-the-badge&logo=huggingface)](https://huggingface.co/mattmajestic)
-[![Discord](https://img.shields.io/badge/Discord-Official-blue?style=for-the-badge&logo=discord)](https://discord.com/users/.crypto_magic)
-[![Email](https://img.shields.io/badge/📧-Email-blue?style=for-the-badge)](mailto:mattmajestic@strictlyresearch.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthew-majestic/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@majesticcoding/videos"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
+  <a href="https://hub.docker.com/u/mattmajestic"><img src="https://img.shields.io/badge/Docker-Hub-blue?style=for-the-badge&logo=docker" alt="Docker Hub"></a>
+  <a href="https://huggingface.co/mattmajestic"><img src="https://img.shields.io/badge/Hugging%20Face-Matt%20Majestic-0052CC?style=for-the-badge&logo=huggingface" alt="Hugging Face"></a>
+  <a href="https://discord.com/users/.crypto_magic"><img src="https://img.shields.io/badge/Discord-Official-blue?style=for-the-badge&logo=discord" alt="Discord"></a>
+  <a href="mailto:mattmajestic@strictlyresearch.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/📧-Email-blue?style=for-the-badge" alt="Email"></a>
+</p>
+
+
 
 ## Stats
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattmajestic&rank_icon=github" alt="mattmajestic" /></p>
