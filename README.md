@@ -5,7 +5,7 @@
 | 💾 mattmajestic.dev FastAPI Portfolio | FastAPI portfolio with Jinja | FastAPI, HTML, JS | [Visit](https://mattmajestic.dev/) |
 | 💻 Windows 98 Themed Portfolio | Deployed on Netlify, written in vanilla JS | Netlify, JavaScript | [Visit](https://majestic-windows-98.netlify.app/) |
 | 🐍 Streamlit with Supabase Backend | Supabase Backend with PyPI via [Github Action](https://github.com/mattmajestic/streamlit-supabase/blob/main/.github/workflows/publish-to-pypi.yml)  | Supabase, [PyPI](https://pypi.org/project/streamlit-supabase/) | [Visit](https://supabase-demo.streamlit.app/) |
-| 🚀 Software Development Request | Deployed on Vercel, built with ReactJS | Vercel, ReactJS, Supabase | [View](https://software-dev-request.vercel.app/) |
+| 🚀 Software Development Request | Deployed on Vercel, built with ReactJS | Vercel, ReactJS, Supabase | [Visit](https://software-dev-request.vercel.app/) |
 | 💳 Booking & Payments App | Streamlit integrated with Stripe API | Streamlit, Stripe Payments API | [Visit](https://stripe-demo-youtube.streamlit.app/) |
 | 📈 CoinGecko Trending Coin Tracker | Deployed on Vercel, built with React | CoinGecko API, React | [Visit](https://coingecko-reactjs.vercel.app/) |
 | 🐳 DIY Home Assistant | Smart automation using Docker Compose | Docker Compose | [Visit](https://github.com/mattmajestic/homeassistant-majestic#readme) |
