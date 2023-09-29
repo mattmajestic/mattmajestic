@@ -1,6 +1,6 @@
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| 👾 Web3 Code Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3cms.streamlit.app/) |
+| 👾 Web3 Code Management Solution | Written in Python with Web3 integration | Python, Web3, Supabase | [Visit](https://web3cms.majesticcoding.com/) |
 | 🎥 @majeticcoding Youtube Channel site | Written in GO, HTML, JS, CSS | GO, GCP, Youtube | [Visit](https://majesticcoding.com) |
 | 💰 Crypto Wallet with Kraken API | Written in Python, uses Kraken REST API | Python, Kraken API, Supabase | [Visit](https://kraken-portfolio.streamlit.app/) |
 | 💾 mattmajestic.dev FastAPI Portfolio | FastAPI portfolio with Jinja | FastAPI, HTML, JS | [Visit](https://mattmajestic.dev/) |
