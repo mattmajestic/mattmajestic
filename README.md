@@ -24,6 +24,7 @@
   <a href="https://huggingface.co/mattmajestic"><img src="https://img.shields.io/badge/Hugging%20Face-Matt%20Majestic-0052CC?style=for-the-badge&logo=huggingface" alt="Hugging Face"></a>
   <a href="https://discord.com/users/.crypto_magic"><img src="https://img.shields.io/badge/Discord-Official-blue?style=for-the-badge&logo=discord" alt="Discord"></a>
   <a href="mailto:mattmajestic@strictlyresearch.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/📧-Email-blue?style=for-the-badge" alt="Email"></a>
+  <a href="https://classroom.google.com/u/0/w/NjI5NzQzODc4MjU1/t/all"><img src="https://img.shields.io/badge/Google%20Classroom-Visit-brightgreen?style=for-the-badge&logo=google-classroom" alt="Google Classroom"></a>
 </p>
 
 
