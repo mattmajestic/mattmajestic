@@ -1,16 +1,10 @@
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
 | 🎥 Majestic Coding Youtube Channel site | Written in GO, HTML, JS, CSS | GO, GCP, Youtube | [Visit](https://majesticcoding.com) |
-| 💰 Crypto Wallet with Kraken API | Written in Python, uses Kraken REST API | Python, Kraken API, Supabase | [Visit](https://kraken-portfolio.streamlit.app/) |
 | 💾 mattmajestic.dev FastAPI Portfolio | FastAPI portfolio with Jinja | FastAPI, HTML, JS | [Visit](https://mattmajestic.dev/) |
 | 💻 Windows 98 Themed Portfolio | Deployed on Netlify, written in vanilla JS | Netlify, JavaScript | [Visit](https://majestic-windows-98.netlify.app/) |
 | 🐍 Streamlit with Supabase Backend | Supabase Backend with PyPI via [Github Action](https://github.com/mattmajestic/streamlit-supabase/blob/main/.github/workflows/publish-to-pypi.yml)  | Supabase, [PyPI](https://pypi.org/project/streamlit-supabase/) | [Visit](https://supabase-demo.streamlit.app/) |
-| 🚀 Software Development Request | Deployed on Vercel, built with ReactJS | Vercel, ReactJS, Supabase | [Visit](https://software-dev-request.vercel.app/) |
-| 💳 Booking & Payments App | Streamlit integrated with Stripe API | Streamlit, Stripe Payments API | [Visit](https://stripe-demo-youtube.streamlit.app/) |
 | 📈 CoinGecko Trending Coin Tracker | Deployed on Vercel, built with React | CoinGecko API, React | [Visit](https://coingecko-reactjs.vercel.app/) |
-| 🐳 DIY Home Assistant | Smart automation using Docker Compose | Docker Compose | [Visit](https://github.com/mattmajestic/homeassistant-majestic#readme) |
-| ☁️ OpenAI Streamlit App | Deployed via Docker on Google Cloud | Docker, Google Cloud | [Visit](https://openai-streamlit.app/) |
-| ⚽ Soccer Performance in Streamlit | Deployed to Google Cloud | Streamlit, Google Cloud | [Visit](https://joga-bonito.tech/) |
 
 <br /> 
 
@@ -29,6 +23,10 @@
 
 
 ## Stats
+### LeetCode
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mattmajestic?theme=light&font=Big%20Shoulders%20Stencil%20Display" alt="mattmajestic" /></p>
+
+### Github
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattmajestic&layout=pie" alt="mattmajestic" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattmajestic&rank_icon=github" alt="mattmajestic" /></p>
 
