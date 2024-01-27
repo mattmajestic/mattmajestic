@@ -4,22 +4,20 @@
   <a href="https://www.linkedin.com/in/matthew-majestic/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@majesticcoding/videos"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
   <a href="https://hub.docker.com/u/mattmajestic"><img src="https://img.shields.io/badge/Docker-Hub-blue?style=for-the-badge&logo=docker" alt="Docker Hub"></a>
-  <a href="https://huggingface.co/mattmajestic"><img src="https://img.shields.io/badge/Hugging%20Face-Matt%20Majestic-0052CC?style=for-the-badge&logo=huggingface" alt="Hugging Face"></a>
   <a href="https://discord.com/users/.crypto_magic"><img src="https://img.shields.io/badge/Discord-Official-blue?style=for-the-badge&logo=discord" alt="Discord"></a>
   <a href="mailto:mattmajestic@strictlyresearch.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/📧-Email-blue?style=for-the-badge" alt="Email"></a>
-  <a href="https://classroom.google.com/u/0/w/NjI5NzQzODc4MjU1/t/all"><img src="https://img.shields.io/badge/Google%20Classroom-Visit-brightgreen?style=for-the-badge&logo=google-classroom" alt="Google Classroom"></a>
 </p>
 
 ## Resume/CV
 [Click to Download](https://mattmajestic.dev/download-resume-pdf)
 
 ## Stats
-### LeetCode
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mattmajestic?theme=light&font=Big%20Shoulders%20Stencil%20Display" alt="mattmajestic" /></p>
 
 ### Github
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattmajestic&layout=pie" alt="mattmajestic" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattmajestic&rank_icon=github" alt="mattmajestic" /></p>
+
+### LeetCode
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mattmajestic?theme=light&font=Big%20Shoulders%20Stencil%20Display" alt="mattmajestic" /></p>
 
 ### Projects
 
