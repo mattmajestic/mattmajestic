@@ -1,3 +1,11 @@
+## Resume/CV
+
+<p align="center">
+  <a href="https://mattmajestic.dev/download-resume-pdf">
+    <img alt="Download My Resume" src="https://img.shields.io/badge/Resume-Download-green" height="40"/>
+  </a>
+</p>
+
 ## Socials
 
 <p align="center">
@@ -6,14 +14,6 @@
   <a href="https://hub.docker.com/u/mattmajestic"><img src="https://img.shields.io/badge/Docker-Hub-blue?style=for-the-badge&logo=docker" alt="Docker Hub"></a>
   <a href="https://discord.com/users/.crypto_magic"><img src="https://img.shields.io/badge/Discord-Official-blue?style=for-the-badge&logo=discord" alt="Discord"></a>
   <a href="mailto:mattmajestic@strictlyresearch.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/📧-Email-blue?style=for-the-badge" alt="Email"></a>
-</p>
-
-## Resume/CV
-
-<p align="center">
-  <a href="https://mattmajestic.dev/download-resume-pdf">
-    <img alt="Download My Resume" src="https://img.shields.io/badge/Resume-Download-green" height="40"/>
-  </a>
 </p>
 
 ### Github Stats
