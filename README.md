@@ -9,14 +9,17 @@
 </p>
 
 ## Resume/CV
-[Click to Download](https://mattmajestic.dev/download-resume-pdf)
 
-## Stats
+<p align="center">
+  <a href="https://mattmajestic.dev/download-resume-pdf">
+    <img alt="Download My Resume" src="https://img.shields.io/badge/Resume-Download-green" height="40"/>
+  </a>
+</p>
 
-### Github
+### Github Stats
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattmajestic&rank_icon=github" alt="mattmajestic" /></p>
 
-### LeetCode
+### LeetCode Stats
 <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mattmajestic?theme=light&font=Big%20Shoulders%20Stencil%20Display" alt="mattmajestic" /></p>
 
 ### Projects
