@@ -7,7 +7,12 @@
   <a href="https://mattmajestic.dev/download-resume-pdf"><img alt="Download My Resume" src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge"/></a>
 </p>
 
-### Github Stats
+### Sponsor on GitHub
+
+<p align="center">
+  <a href="https://github.com/sponsors/mattmajestic"><img src="https://img.shields.io/badge/Sponsor-GitHub-black?style=for-the-badge&logo=github" alt="Sponsor me on GitHub"></a>
+</p>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattmajestic&rank_icon=github" alt="mattmajestic" /></p>
 
 ### LeetCode Stats
