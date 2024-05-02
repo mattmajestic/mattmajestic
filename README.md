@@ -18,14 +18,6 @@
 ### LeetCode Stats
 <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mattmajestic?theme=light&font=Big%20Shoulders%20Stencil%20Display" alt="mattmajestic" /></p>
 
-### Projects
-
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| 🎥 Majestic Coding Youtube Channel Site | Written in GO, HTML, JS, CSS | GO, GCP, Youtube | [Visit](https://majesticcoding.com) |
-| 💾 mattmajestic.dev FastAPI Portfolio | FastAPI portfolio with Jinja | FastAPI, HTML, JS | [Visit](https://mattmajestic.dev/) |
-| 🐍 Streamlit with Supabase Backend | Supabase Backend with PyPI via [Github Action](https://github.com/mattmajestic/streamlit-supabase/blob/main/.github/workflows/publish-to-pypi.yml)  | Supabase, [PyPI](https://pypi.org/project/streamlit-supabase/) | [Visit](https://supabase-demo.streamlit.app/) |
-
 <br /> 
 
 ## Languages and Tools:
