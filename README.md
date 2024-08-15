@@ -3,8 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/matthew-majestic/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@majesticcoding/videos"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
-  <a href="mailto:matt@majesticcoding.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/📧-Email-blue?style=for-the-badge" alt="Email"></a>
-  <a href="https://mattmajestic.dev/download-resume-pdf"><img alt="Download My Resume" src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge"/></a>
+  <a href="https://majesticcoding.com/download-resume-pdf"><img alt="Download My Resume" src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge"/></a>
 </p>
 
 ### Sponsor on GitHub
