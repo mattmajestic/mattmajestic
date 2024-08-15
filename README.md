@@ -1,21 +1,19 @@
+# About Me
+
+Experienced in full-stack development and consulting, with a focus on data analytics, machine learning, and cloud infrastructure.
+
+My goal is to deliver high-quality software products that provide actionable insights and drive profitable business decisions by utilizing Data Science products and infrastructure.
+
 ## Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matthew-majestic/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@majesticcoding/videos"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
-  <a href="https://majesticcoding.com/download-resume-pdf"><img alt="Download My Resume" src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge"/></a>
-</p>
-
-### Sponsor on GitHub
-
-<p align="center">
-  <a href="https://github.com/sponsors/mattmajestic"><img src="https://img.shields.io/badge/Sponsor-GitHub-black?style=for-the-badge&logo=github" alt="Sponsor me on GitHub"></a>
+  <a href="https://www.youtube.com/@majesticcoding/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"></a>
+  <a href="https://www.twitch.tv/majesticcodingtwitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel"></a>
+  <a href="https://www.linkedin.com/in/matthew-majestic/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://majesticcoding.com/download-resume-pdf"><img alt="View My Resume" src="https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattmajestic&rank_icon=github" alt="mattmajestic" /></p>
-
-### LeetCode Stats
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/mattmajestic?theme=light&font=Big%20Shoulders%20Stencil%20Display" alt="mattmajestic" /></p>
 
 <br /> 
 
