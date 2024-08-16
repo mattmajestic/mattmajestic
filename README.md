@@ -1,8 +1,8 @@
-# About Me
+## About Me
 
-Experienced in full-stack development and consulting, with a focus on data analytics, machine learning, and cloud infrastructure.
-
-My goal is to deliver high-quality software products that provide actionable insights and drive profitable business decisions by utilizing Data Science products and infrastructure.
+- 🖥 Experienced in full-stack development and consulting, with a focus on data analytics, machine learning, and cloud infrastructure.
+- 💼 My goal is to deliver high-quality software products that provide actionable insights and drive profitable business decisions by utilizing Data Science products and infrastructure.
+- 🔔 Check out my socials below to check out the things I'm working on
 
 ## Socials
 
