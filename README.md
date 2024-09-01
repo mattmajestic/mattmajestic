@@ -1,10 +1,19 @@
+<div align="center">
+
 ## About Me
+
+</div>
 
 - 🖥 Experienced in full-stack development and consulting, with a focus on data analytics, machine learning, and cloud infrastructure.
 - 💼 My goal is to deliver quality software products that provide actionable insights and drive profitable business decisions by utilizing Data Science products and infrastructure.
 - 🔔 Check out my socials below to check out the things I'm working on
 
+<div align="center">
+  
 ## Socials
+
+</div>
+
 
 <p align="center">
   <a href="https://www.youtube.com/@majesticcoding/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"></a>
@@ -18,11 +27,9 @@
 
 <br /> 
 
-## Commonly Used Technology
-
 <div align="center">
 
-## Most Used Technology
+## Commonly Used Technology
 
 <table align="center">
   <thead>
