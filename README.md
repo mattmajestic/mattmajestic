@@ -20,7 +20,7 @@ Full-stack development and consulting, with a focus on data analytics.
   <a href="https://discord.com/invite/CZAQPrQ58K"><img src="https://img.shields.io/discord/1272530931533480017?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2" alt="Join The Discord"></a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mattmajestic?theme=nord&font=Merienda%20One&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mattmajestic?theme=nord&font=Merienda%20One&ext=heatmap)
 
 <div align="center">
 
