@@ -2,23 +2,25 @@
 
 ## About Me 🧬
 
+<div align="center">
+  
 </div>
 
-Experienced in full-stack development and consulting, with a focus on data analytics, machine learning, and cloud infrastructure 
+Full-stack development and consulting, with a focus on data analytics. 
 
 <div align="center">
   
 ## Socials 📡
 
 </div>
-
-
 <p align="center">
   <a href="https://www.youtube.com/@majesticcoding/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"></a>
   <a href="https://www.twitch.tv/majesticcodingtwitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel"></a>
   <a href="https://www.linkedin.com/in/matthew-majestic/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com/invite/CZAQPrQ58K"><img src="https://img.shields.io/discord/1272530931533480017?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2" alt="Join The Discord"></a>
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mattmajestic?theme=nord&font=Merienda%20One&ext=activity)
 
 <div align="center">
 
